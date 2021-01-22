@@ -120,7 +120,7 @@ export default class Projects extends Component {
                         <div className="project" style={{backgroundImage: 'url(images/dance_s.jpeg)'}}>
                             <div className="desc">
                                 <div className="con" onClick={this.handleOpenModal2}>
-                                    <h3>FPGA DDR <a href="https://github.com/mattrix27/6111-final/" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></h3>
+                                    <h3>FPGA DDR</h3>
                                 </div>
                                 <ReactModal 
                                   isOpen={this.state.showModal2}
@@ -129,7 +129,7 @@ export default class Projects extends Component {
                                   shouldCloseOnOverlayClick={true}
                                 >
                                   <div className="modal-header">
-                                    <h3>FPGA DDR</h3>
+                                    <h3>FPGA DDR <a href="https://github.com/mattrix27/6111-final/" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></h3>
                                   </div>
                                   <div className="modal-body">
                                     <div style={{textAlign: "center",}}>

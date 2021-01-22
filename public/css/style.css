@@ -85,7 +85,7 @@ figure figcaption {
     float: left;
     width: calc(25%);
     position: fixed;
-    overflow: auto;
+    overflow-y: auto;
     z-index: 1001;
     background: #f2f3f7;
     -webkit-transition: 0.5s;
@@ -101,7 +101,8 @@ figure figcaption {
         -o-transform: translateX(-300px);
         transform: translateX(-300px);
         padding-top: 4em;
-        max-height: none !important
+        max-height: none !important;
+        overflow-y: auto;
     }
 }
 #colorlib-aside .author-img {
