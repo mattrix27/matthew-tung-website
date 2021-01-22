@@ -156,7 +156,7 @@ figure figcaption {
 }
 @media screen and (max-width: 768px) {
     #colorlib-aside #colorlib-main-menu ul {
-        margin: 0 0 20em 0;
+        margin: 20em 0 20em 0;
     }
 }
 #colorlib-aside #colorlib-main-menu ul li {
