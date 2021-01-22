@@ -136,7 +136,7 @@ export default class Projects extends Component {
                                       <iframe 
                                         width="100%"
                                         height="315"
-                                        src="http://web.mit.edu/6.111/volume2/www/f2018/projects/dance_s.mp4"
+                                        src="https://www.youtube.com/embed/t1Yb3eaC2yE"
                                         frameborder="0"
                                         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen>

@@ -102,7 +102,9 @@ figure figcaption {
         transform: translateX(-300px);
         padding-top: 4em;
         max-height: none !important;
-        overflow-y: auto;
+        height: 100vh;
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
     }
 }
 #colorlib-aside .author-img {
