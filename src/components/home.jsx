@@ -15,7 +15,7 @@ export default class Home extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1 style={{color: "white"}}>Hi! <br />I'm Matthew</h1>
-                          <p><a style={{color: "white", border: '1px solid #fff'}} className="btn btn-primary btn-learn" href="/downloads/Matthew_Tung_Resume_9_18_20.pdf" download>Resume<i className="icon-download4"/></a></p>
+                          <p><a style={{color: "white", border: '1px solid #fff'}} className="btn btn-primary btn-learn" href="/downloads/Matthew_Tung_Resume_3_17_23.pdf" download>Resume<i className="icon-download4"/></a></p>
                         </div>
                       </div>
                     </div>
@@ -29,7 +29,7 @@ export default class Home extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1 style={{color: "white"}}>Hi! <br />I'm Matthew</h1>
-                          <p><a style={{color: "white", border: '1px solid #fff'}} className="btn btn-primary btn-learn" href="/downloads/Matthew_Tung_Resume_9_18_20.pdf" download>Resume<i className="icon-download4" /></a></p>
+                          <p><a style={{color: "white", border: '1px solid #fff'}} className="btn btn-primary btn-learn" href="/downloads/Matthew_Tung_Resume_3_17_23.pdf" download>Resume<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -43,7 +43,7 @@ export default class Home extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1 style={{color: "white"}}>Hi! <br />I'm Matthew</h1>
-                          <p><a style={{color: "white", border: '1px solid #fff'}} className="btn btn-primary btn-learn" href="/downloads/Matthew_Tung_Resume_9_18_20.pdf" download>Resume<i className="icon-download4" /></a></p>
+                          <p><a style={{color: "white", border: '1px solid #fff'}} className="btn btn-primary btn-learn" href="/downloads/Matthew_Tung_Resume_3_17_23.pdf" download>Resume<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>

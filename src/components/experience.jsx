@@ -17,10 +17,27 @@ export default class Experience extends Component {
                      <div className="timeline-centered">
                          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                             <div className="timeline-entry-inner">
+                               <div className="experience-img" style={{backgroundImage: 'url(images/alexa.png)'}} />
+                               <div className="timeline-icon color-1" style={{backgroundImage: 'url(images/alexa.png)'}}></div>
+                               <div className="timeline-label">
+                                  <h2>Amazon <span>Jul.2021-present</span></h2>
+                                  <p>Software Dev Engineer</p>
+                                  <ul>
+                                    <li>Worked with the SmartMotion and Chimera teams under the Alexa MultiModal Initiatives org</li>
+                                    <li>Developed and maintained Presence-related features on both Android and C++ for Alexa Echo Show Devices</li>
+                                    <li>Worked with Computer vision team, Cloud team APIs and device-side state machines to create smart screen experiences</li>
+                                    <li>Designed and implemented metrics dashboards on multiple platforms for operational excellence</li>
+                                  </ul>
+                               </div>
+                            </div>
+                         </article>
+
+                         <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                            <div className="timeline-entry-inner">
                                <div className="experience-img" style={{backgroundImage: 'url(images/seagrant.jpg)'}} />
                                <div className="timeline-icon color-1" style={{backgroundImage: 'url(images/seagrant.jpg)'}}></div>
                                <div className="timeline-label">
-                                  <h2>MIT SeaGrant <span>Sep.2020-present</span></h2>
+                                  <h2>MIT SeaGrant <span>Sep.2020-Jun.2021</span></h2>
                                   <p>Research Assistant</p>
                                   <ul>
                                     <li>Help design, create, and program an autonomous surface vehicle to automate oyster farming for thesis</li>
@@ -30,7 +47,6 @@ export default class Experience extends Component {
                                </div>
                             </div>
                          </article>
-
 
                          <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
                             <div className="timeline-entry-inner">
